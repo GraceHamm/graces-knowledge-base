@@ -1,0 +1,1 @@
+My name is Grace Hamm! I am a lover of great design, compelling marketing strategy, camping guru and occasionally a six-string storyteller. I am originally from Paris, Texas but currently reside in Lubbock, Texas where I am a Junior online at Texas Tech University.
