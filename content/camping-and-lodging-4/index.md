@@ -1,3 +1,3 @@
 ---
-title: camping-and-lodging-4
+title: Camping and Lodging
 ---

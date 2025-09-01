@@ -1,3 +1,3 @@
 ---
-title: weather-and-climate-5
+title: Weather and Climate
 ---

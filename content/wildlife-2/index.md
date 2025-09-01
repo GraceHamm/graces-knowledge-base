@@ -1,3 +1,3 @@
 ---
-title: wildlife-2
+title: Wildlife
 ---

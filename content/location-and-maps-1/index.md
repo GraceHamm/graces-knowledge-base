@@ -1,3 +1,3 @@
 ---
-title: location-and-maps-1
+title: Location and Maps
 ---
