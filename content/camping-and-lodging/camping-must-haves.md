@@ -14,5 +14,7 @@ It's time to know before you go! It is not only important to back intentionally 
 9. **Clothing Layers**
 10. **Flash Lights and Headlamps**
 
+![[yellowstone-map.pdf]]
+
 ##### Read More Here: 
 [[camp-fire-safety]] | [[backcountry-camping]]
