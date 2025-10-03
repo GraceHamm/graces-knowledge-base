@@ -1,3 +1,8 @@
+---
+title: Camping Must Haves
+date: 2025-10-03
+---
+
 # Camping Must Haves  ✏️
 
 It's time to know before you go! It is not only important to back intentionally when you are camping but it can be do or die in some situations. The wilderness does not spare anyone. Here is a base level packing list to help get your started but remember, depending on where you are camping, it is important to pack accordingly. 
@@ -14,7 +19,6 @@ It's time to know before you go! It is not only important to back intentionally 
 9. **Clothing Layers**
 10. **Flash Lights and Headlamps**
 
-![[yellowstone-map.pdf]]
 
 ##### Read More Here: 
 [[camp-fire-safety]] | [[backcountry-camping]]

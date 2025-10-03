@@ -1,3 +1,7 @@
+---
+title: National Park Campgrounds
+date: 2025-10-03
+---
 
 # National Park Campgrounds ⛰️
 

@@ -1,3 +1,7 @@
+---
+title: Back Country Camping
+date: 2025-10-03
+---
 # Back Country Camping  🌲
 
 Back country camping is *not* for the faint of heart. If you are looking for a true and rugged adventure, this style of camping is for you. While you don't have access to restrooms, showers, or air-conditioning, there is beauty in being in raw nature. 
@@ -12,6 +16,7 @@ Back country camping is *not* for the faint of heart. If you are looking for a t
 > “In every walk with nature one receives dar more than he seeks.”  - John Muir
 
 
-  
+##### Yellow Stone National Park is full of back country camping! Check it out! 
+  ![[yellowstone-map.pdf]]
 ##### Read More Here: 
 [[camp-fire-safety]] | [[national-park-campgrounds]]  
