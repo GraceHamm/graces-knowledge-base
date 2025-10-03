@@ -6,7 +6,7 @@ date: 2025-10-03
  This page includes helpful links and recourses talked about within this knowledge base. 
  
 ##### Famous Locations
-- [**Old Faithful Inn**]((https://www.yellowstonenationalparklodges.com/lodging/summer-lodges/old-faithful-inn/)
+- [**Old Faithful Inn**](https://www.yellowstone.org/lodging-101/?gad_source=1&gad_campaignid=1074932863&gbraid=0AAAAAD2qprs8-_5NMorexouu-9flE6fVG&gclid=CjwKCAjw6P3GBhBVEiwAJPjmLiVoVGDIrUxxg6oI0BFWA8G5Oi2QAwa8I2P9MduJLLKMwtUCBMKyGhoCZjkQAvD_BwE)
 - [**El Tovar Hotel**]((https://www.grandcanyonlodges.com/lodging/el-tovar/)
 - [**Devils Garden Campground**](https://www.nps.gov/arch/planyourvisit/camping.htm)
 - [**Rock Harbor & Back Country Camping Spots**](https://www.nps.gov/isro/planyourvisit/camping.htm)
